@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <picture>
     <img src="assets/images/portrait.png" width="75%">
   </picture>
@@ -20,7 +20,7 @@
 [twitter_link]: https://twitter.com/natakurage
 [youtube_link]: https://www.youtube.com/channel/UCm7xuqpIRKqAoxd46wfWg3Q
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://natakurage.vercel.app">
     <img height="30px" src="assets/images/home.svg" >
   </a>
