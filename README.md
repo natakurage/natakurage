@@ -4,7 +4,12 @@
   </picture>
 </div>
 
-<p style="text-align: center; font-size: 3em; font-weight: bold;">ナタクラゲ</p>
+
+<div align="center">
+  <strong>
+    <h1>ナタクラゲ</1>
+  </strong>
+</div>
 
 ![Species is Human and Jellyfish](https://img.shields.io/badge/Species-Human_and_Jellyfish-FF50DF)
 ![Job is VTuber](https://img.shields.io/badge/Job-VTuber-50FFDF)
