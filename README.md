@@ -29,23 +29,23 @@
     <img height="30px" src="assets/images/bluesky.svg" >
   </a>
   &nbsp&nbsp
-  <picture>
-    <source height="30px" media="(prefers-color-scheme: dark)" srcset="assets/images/note_white.svg" />
-    <a href="https://note.com/minamo_ntk">
+  <a href="https://note.com/minamo_ntk">
+    <picture>
+      <source height="30px" media="(prefers-color-scheme: dark)" srcset="assets/images/note_white.svg" />
       <img height="30px" src="assets/images/note.svg" >
-    </a>
-  </picture>
+    </picture>
+  </a>
   &nbsp&nbsp
   <a href="https://www.youtube.com/channel/UCm7xuqpIRKqAoxd46wfWg3Q">
     <img height="30px" src="assets/images/youtube.svg" >
   </a>
   &nbsp&nbsp
-  <picture>
-    <source height="30px" media="(prefers-color-scheme: dark)" srcset="assets/images/x_white.svg" />
-    <a href="https://twitter.com/natakurage">
+  <a href="https://twitter.com/v_natakurage">
+    <picture>
+      <source height="30px" media="(prefers-color-scheme: dark)" srcset="assets/images/x_white.svg" />
       <img height="30px" src="assets/images/x.svg" >
-    </a>
-  </picture>
+    </picture>
+  </a>
 </div>
 <br>
 
