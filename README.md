@@ -19,10 +19,10 @@
 [![Twitter][twitter_shields]][twitter_link]
 [![YouTube][youtube_shields]][youtube_link]
 
-[twitter_shields]: https://img.shields.io/twitter/follow/natakurage
+[twitter_shields]: https://img.shields.io/twitter/follow/v_natakurage
 [youtube_shields]: https://img.shields.io/youtube/channel/views/UCm7xuqpIRKqAoxd46wfWg3Q
 
-[twitter_link]: https://twitter.com/natakurage
+[twitter_link]: https://twitter.com/v_natakurage
 [youtube_link]: https://www.youtube.com/channel/UCm7xuqpIRKqAoxd46wfWg3Q
 
 <div align="center">
