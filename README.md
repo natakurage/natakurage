@@ -27,24 +27,30 @@
 
 <div align="center">
   <a href="https://natakurage.vercel.app">
-    <img height="30px" src="assets/images/home.svg" >
+    <picture>
+      <img height="30px" src="assets/images/home.svg" >
+    </picture>
   </a>
-  &nbsp&nbsp
+  &nbsp;&nbsp;
   <a href="https://bsky.app/profile/natakurage.bsky.social">
-    <img height="30px" src="assets/images/bluesky.svg" >
+    <picture>
+      <img height="30px" src="assets/images/bluesky.svg" >
+    </picture>
   </a>
-  &nbsp&nbsp
+  &nbsp;&nbsp;
   <a href="https://note.com/minamo_ntk">
     <picture>
       <source height="30px" media="(prefers-color-scheme: dark)" srcset="assets/images/note_white.svg" />
       <img height="30px" src="assets/images/note.svg" >
     </picture>
   </a>
-  &nbsp&nbsp
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCm7xuqpIRKqAoxd46wfWg3Q">
-    <img height="30px" src="assets/images/youtube.svg" >
+    <picture>
+      <img height="30px" src="assets/images/youtube.svg" >
+    </picture>
   </a>
-  &nbsp&nbsp
+  &nbsp;&nbsp;
   <a href="https://twitter.com/v_natakurage">
     <picture>
       <source height="30px" media="(prefers-color-scheme: dark)" srcset="assets/images/x_white.svg" />
