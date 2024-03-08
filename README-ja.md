@@ -7,7 +7,7 @@
 
 <div align="center">
   <strong>
-    <h1>Natakurage</1>
+    <h1>ナタクラゲ</1>
   </strong>
 </div>
 
@@ -19,10 +19,10 @@
 [![Twitter][twitter_shields]][twitter_link]
 [![YouTube][youtube_shields]][youtube_link]
 
-[twitter_shields]: https://img.shields.io/twitter/follow/v_natakurage
+[twitter_shields]: https://img.shields.io/twitter/follow/natakurage
 [youtube_shields]: https://img.shields.io/youtube/channel/views/UCm7xuqpIRKqAoxd46wfWg3Q
 
-[twitter_link]: https://twitter.com/v_natakurage
+[twitter_link]: https://twitter.com/natakurage
 [youtube_link]: https://www.youtube.com/channel/UCm7xuqpIRKqAoxd46wfWg3Q
 
 <div align="center">
@@ -60,14 +60,14 @@
 </div>
 <br>
 
-Just another codehead (or non-codehead). I am mainly interested in Web, computer graphics, and musics. I am the manager of the VTuber "Senbonyari Minamo". Some people says that he/she is acting as her by himself/herself, but it's not clear whether the rumor is true or false.
+コードを書く変態（あるいは、書かない変態）。主にWeb系、3D系、音楽系に興味がある。VTuber「千本槍みなも」のマネージャー。本人がやっているという噂もあるが信憑性は不明。
 
-# Senbonyari Minamo
+# 千本槍みなも
 
-A life form fused with the power of jellyfish. She is vigilantly seeking a chance to exterminate the human race. Recently, she is also active as an cryptid VTuber. She eats dried seaweed as it is for a snack.
+クラゲの力を融合させられた生命体。人類を絶滅させるチャンスを虎視眈々と狙っている。最近は未確認系VTuberとしても活動している。おやつに乾燥わかめをそのまま食べる。
 
 > [!TIP]
-> If you deliberately make odd points in your presentation, the audience will ask you questions about them, so you don't get unexpected questions!
+> 発表でわざとツッコミどころのある資料を作ると質問をそこに誘導できるので、想定外の質問が来ずに済むよ！
 
 # 💪Skills
 
