@@ -1,3 +1,5 @@
+[English](/README.md) | 日本語
+
 <div align="center">
   <picture>
     <img src="assets/images/portrait.png" width="75%">
@@ -26,13 +28,13 @@
 [youtube_link]: https://www.youtube.com/channel/UCm7xuqpIRKqAoxd46wfWg3Q
 
 <div align="center">
-  <a href="https://natakurage.vercel.app">
+  <a href="https://natakurage.cc">
     <picture>
       <img height="30px" src="assets/images/home.svg" >
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://bsky.app/profile/natakurage.bsky.social">
+  <a href="https://bsky.app/profile/natakurage.cc">
     <picture>
       <img height="30px" src="assets/images/bluesky.svg" >
     </picture>
